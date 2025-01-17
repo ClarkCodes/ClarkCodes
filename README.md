@@ -6,36 +6,39 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/ClarkCodes?style=social)](https://twitter.com/clarkcodes)
 [![GitHub Followers](https://img.shields.io/github/followers/ClarkCodes?style=social)](https://github.com/ClarkCodes)
 
-I'm a self-taugh Software Developer, and currently a Software Engineering university superior grade student, passionated about programming and technology, I like to write code and develop tools to improve people lives, to make things better, I love to learn new things and to practice my coding skills, so I'm doing it constantly, I like to contribute weather this is creating content about software development or sometimes sharing code I've done practicing, contributing to the world... for a brighter tomorrow.
+I'm a self-taugh Software Developer, currently a Software Engineering university superior grade student, passionated about programming and technology, I like to write code and develop useful tools to improve people lives, to solve a need, to make things better, I love learning new things and practicing my coding skills, so I'm doing it constantly, I like to contribute whether creating content about software development or sharing code I've made when practicing, contributing to the world... for a brighter tomorrow.
 
-- 🔭 I’m currently working on my technical coding skills, 🌱 practicing a lot developing personal projects and in my formal studies.
+- 🔭 I’m currently working on my technical coding skills, 🌱 practicing a lot developing personal projects and working in my formal professional education.
+
+- ✨ Always listening for bussiness, 💬 if you need something, send me an e-mail, and we could talk about it.
 
 ### Languages and technologies that I've worked with
-<div style="display: inline_block"><br>
-  <img align="center" alt="Cks-Java" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Cks-Csharp" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Cks-Python" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Cks-Kotlin" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Cks-Js" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Cks-HTML" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Cks-CSS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-  <img align="center" alt="Cks-Andr" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">  
-  <img align="center" alt="Cks-AndroidStudio" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">  
-  <img align="center" alt="Cks-VS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">  
-  <img align="center" alt="Cks-VSCode" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">  
-  <img align="center" alt="Cks-DotNet" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg">  
-  <img align="center" alt="Cks-Git" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Cks-MySQL" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Cks-Photoshop" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg">
-  <img align="center" alt="Cks-Premiere" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg">
-  <img align="center" alt="Cks-Gimp" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg">
-  <img align="center" alt="Cks-Linux" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  
+<br>
+<div align="center">
+  <img align="center" alt="JavaScript-Icon" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML-Icon" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS-Icon" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
+  <img align="center" alt="Python-Icon" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Csharp-Icon" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="DotNet-Icon" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg">  
+  <img align="center" alt="Java-Icon" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Kotlin-Icon" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+</div>
+<br>
+<div align="center">
+  <img align="center" alt="Git-Icon" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="SQL-Server-Icon" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+  <img align="center" alt="MySQL-Icon" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="VSCode-Icon" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">  
+  <img align="center" alt="Visual-Studio-Icon" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">  
+  <img align="center" alt="Android-Studio-Icon" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">  
+  <img align="center" alt="GIMP-Icon" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg">
+  <img align="center" alt="Linux-Icon" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
 <br>
 
 ### How to reach me
-- 📫 You can send me an email to clark.codes.sk@gmail.com and I'll try to answer as soon as possible for me, you can also follow me on my socials if you want to see my content.
+- 📫 You can send me an email to clark.codes.sk@gmail.com and I'll try to answer as soon as possible, you can also follow me on my socials if you want to see my content.
 
   ##
  
@@ -48,7 +51,7 @@ I'm a self-taugh Software Developer, and currently a Software Engineering univer
 </div>
 
 ## Thanks for visiting
-Thank you very much for visiting, these projects have been made with love and passion, as everything I do, I really enjoyed doing them, it's been pretty cool, so I'll be seeing you here soon with more projects, on YouTube with more videos and on the other social networks as well, hugs, cheers... with love and enthusiasm and... 
+Thank you very much for visiting my profile, my projects have been made with love and passion as everything I do, it is my nature, I put my passion in my work, I like it to be crafted with attention on details, I really enjoyed doing projects, it's been pretty cool, so I'm doing more projects, I see you on YouTube with more videos and on my socials, hugs, cheers... with love and enthusiasm... 
 
 Happy Coding! <3 
 
